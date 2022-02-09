@@ -16,3 +16,5 @@ $ git config --global user.name
 Learnt how to add a user email using the comand line $ git config --global user.name "mcleodthegrey@gmail.com" and check to make sure it was correct with using the comand line 
 $ git config --global user.email
 > mcleodthegrey@gmail.com
+
+Well I am doing my head in with git auth lol, looked at the commnad line and checked out Github Cli for an explanation as to why oh well and I am looking on youtube or any doc online for some more info. This youtube video help alot https://youtu.be/mskIcsJFzcI . I will have to finish this tomorow I have run out of time as I have other house work to do before going to sleep.
