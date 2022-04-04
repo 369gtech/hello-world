@@ -28,4 +28,4 @@ That was quick so now well do a pull requeast!!! This should be easy :):):).
 
 <h2>Setting up **Git Bash** again as I had previously already done it lol, so Round 2</h2>
 >
->Not interested in adding **Git GUI** as I will be more than happy just to us **CodeSandbox**.
+>Not interested in adding <strong>Git GUI</strong> as I will be more than happy just to use CodeSandbox.
