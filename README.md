@@ -20,4 +20,4 @@ Oops I made a little mistake lol, doing take two of Pull request.
   <li>feature etc</li>
 </ul>
 
-**So lets get started and branck up our progress.**
+**So lets get started and branch up our progress.**
