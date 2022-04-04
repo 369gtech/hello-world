@@ -29,4 +29,4 @@ Oops I made a little mistake lol, doing take two of Pull request.
 
 <h3>Setting up <strong>Git Bash</strong> again as I had previously already done it lol, so Round 2</h3>
 
->Not interested in adding <strong>Git GUI</strong> as I will be more than happy just to use CodeSandbox. I have also previously completed <strong>Authentication with Git</strong> as I have created an Auth Token in Settings. I have also set up a <strong>Git Clone</strong> so I am on a roll with this section :):P:).
+>Not interested in adding <strong>Git GUI</strong> as I will be more than happy just to use CodeSandbox. I have also previously completed <strong>Authentication with Git</strong> as I have created an Auth Token in Settings. I have also set up a <strong>Git Clone</strong> so I am on a roll with this section :P.
