@@ -6,7 +6,7 @@ I am adding a commit about my self - I am an aspiring coder learning to code wit
 
 Oops I made a little mistake lol, doing take two of Pull request.
 
-<strong>Git Time</strong
+<strong>Git Time</strong>
 
 Had Git installed from before but I didn't understand how to use it. Well know I am learning how to use it.
 
