@@ -33,5 +33,5 @@ Oops I made a little mistake lol, doing take two of Pull request.
 
 <h3>Create A Repo</h3>
 
-><strong><em>Done and Dusted</em></strong> already and we can move onto the next section :):):).
+><strong>Done and Dusted</strong> already and we can move onto the next section :):):).
 ?
