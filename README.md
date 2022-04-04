@@ -22,6 +22,11 @@ Oops I made a little mistake lol, doing take two of Pull request.
 
 **So lets get started and branch up our progress.**
 
-<h2>Yes we have branched to <strong>feature Hello World 1</strong></h2> 
+<h3>Yes we have branched to <strong>feature Hello World 1</strong></h3> 
 
-That was quick so now well do a pull requeast!!! This should be easy :):):).
+>That was quick so now well do a pull requeast!!! This should be easy :):):).
+>
+
+<h3>Setting up <strong>Git Bash</strong> again as I had previously already done it lol, so Round 2</h3>
+
+>Not interested in adding <strong>Git GUI</strong> as I will be more than happy just to use CodeSandbox. I have also previously completed <strong>Authentication with Git</strong> as I have created an Auth Token in Settings. I have also set up a <strong>Git Clone</strong> so I am on a roll with this section :P.
