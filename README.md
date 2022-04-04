@@ -15,9 +15,13 @@ Oops I made a little mistake lol, doing take two of Pull request.
 >*Well branch every major topic with a name* feature [name & number] *so we can keep track of our progress.*
 >
 <ul>
-  <li>feature Hellow World 1</li>
+  <li>feature Hello World 1</li>
   <li>feature Set Up Git 2</li>
   <li>feature etc</li>
 </ul>
 
-**So lets get started and branck up our progress.**
+**So lets get started and branch up our progress.**
+
+<h2>Yes we have branched to <strong>feature Hello World 1</strong></h2> 
+
+That was quick so now well do a pull requeast!!! This should be easy :):):).
