@@ -24,7 +24,8 @@ Oops I made a little mistake lol, doing take two of Pull request.
 
 <h3>Yes we have branched to <strong>feature Hello World 1</strong></h3> 
 
-That was quick so now well do a pull requeast!!! This should be easy :):):).
+>That was quick so now well do a pull requeast!!! This should be easy :):):).
+>
 
 <h3>Setting up <strong>Git Bash</strong> again as I had previously already done it lol, so Round 2</h3>
 
