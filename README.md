@@ -13,9 +13,9 @@ Oops I made a little mistake lol, doing take two of Pull request.
 >Lets stick with **the basics** first before we get too far ahead of ourselves so lets creating a branch.
 >
 >>*Well branch every major topic with a name* ***feature[name+number]*** *so we can keep track of our progress.*
->>
->>***-feature Hellow World 1***
->>***-feature Set Up Git 2***
->>***-etc***
-
+<ul>
+  <li>>>***-feature Hellow World 1***</li>
+  <li>>>***-feature Set Up Git 2***</li>
+  <li>>>***-etc***</li>
+</ul>
 **So lets get started and branck up our progress.**
