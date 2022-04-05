@@ -31,6 +31,8 @@ Oops I made a little mistake lol, doing take two of Pull request.
 
 >Not interested in adding <strong>Git GUI</strong> as I will be more than happy just to use CodeSandbox. I have also previously completed <strong>Authentication with Git</strong> as I have created an Auth Token in Settings. I have also set up a <strong>Git Clone</strong> so I am on a roll with this section :P.
 
+
+
 <h3>Create A Repo</h3>
 
 ><strong>Done and Dusted</strong> already and we can move onto the next section :):):).
@@ -38,3 +40,16 @@ Oops I made a little mistake lol, doing take two of Pull request.
 <h3>Fork A Repo</h3>
 
 ><strong>Done and Dusted</strong> already and we can move onto the next section :):):).
+
+<h3>Github Flow</h3>
+
+>My own workflow will be a <strong>Work In Progress</strong> because I am slowly building my many projects so I have forked githubs recommendations for now which includes:
+>
+
+<ul>
+  <li><a href="https://github.com/369gtech/site-policy">github site policy</a></li>
+  <li><a href="https://https://github.com/369gtech/docs">github documentation</a></li>
+  <li><a href="https://github.com/369gtech/roadmap">github roadmap</a></li>
+</ul>
+
+>These github templates will help me develope my own workflow and Thank You Github :):):).
