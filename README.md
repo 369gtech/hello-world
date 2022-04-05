@@ -46,7 +46,10 @@ Oops I made a little mistake lol, doing take two of Pull request.
 >My own workflow will be a <strong>Work In Progress</strong> because I am slowly building my many projects so I have forked githubs recommendations for now which includes:
 >
 
-<a href="https://github.com/369gtech/site-policy">github site policy</a>
+<ul>
+  <li><a href="https://github.com/369gtech/site-policy">github site policy</a></li>
+  <li><a href="https://https://github.com/369gtech/docs">github documentation</a></li>
+  <li><a href="https://github.com/369gtech/roadmap">github roadmap</a></li>
+</ul>
 
-
->>Gitbubs template will help me develope my own workflow and Thank You Github :):):).
+>These github templates will help me develope my own workflow and Thank You Github :):):).
