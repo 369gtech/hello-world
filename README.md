@@ -1,4 +1,10 @@
-<h1>Hello-World</h1>
+<br/>
+<p align="center">
+<h1>Hello World 👋</h1>
+</p>
+<br/>
+
+[![GitHub license](https://img.shields.io/github/license/smartcontractkit/369gtech?style=flat-square)](https://github.com/369gtech/LICENSE/blob/main/LICENSE)
 
 I am going to complete the **Hello World** Github repository and I am starting from the start.
 
