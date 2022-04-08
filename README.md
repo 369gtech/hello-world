@@ -6,6 +6,11 @@
 
 [![GitHub license](https://github.com/369gtech/MIT-License.git)
 
+<p align="center">
+<a href="https://discord.gg/aTYpM7qX"><img src="https://img.shields.io/static/v1?logo=discord&label=&message=Discord&color=36393f&style=flat-square" alt="Discord"></a>
+<a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?style=flat-square" alt="License"></a>
+</p>
+
 I am going to complete the **Hello World** Github repository and I am starting from the start.
 
 <em>I am adding a commit about my self - I am an aspiring coder learning to code with **Github**.</em>
