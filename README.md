@@ -4,7 +4,7 @@
 </p>
 <br/>
 
-[![GitHub license](https://img.shields.io/github/license/smartcontractkit/369gtech?style=flat-square)](https://github.com/369gtech/LICENSE/blob/main/LICENSE)
+[![GitHub license](https://github.com/369gtech/MIT-License.git)
 
 I am going to complete the **Hello World** Github repository and I am starting from the start.
 
