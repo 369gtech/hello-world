@@ -8,56 +8,26 @@
 <a href="https://github.com/369gtech/MIT-License/blob/main/LICENSE"><img src="https://img.shields.io/github/license/antonkomarev/github-profile-views-counter.svg?&color=green&style=flat-square" alt="License"></a>
 </p>
 
-I am going to complete the **Hello World** Github repository and I am starting from the start.
-
-<em>I am adding a commit about my self - I am an aspiring coder learning to code with **Github**.</em>
-
-Oops I made a little mistake lol, doing take two of Pull request.
+I am going to complete the <a href="https://docs.github.com/en/get-started/quickstart/hello-world">**Hello World**</a> at Github Docs and I am starting from the start. I am an aspiring coder learning to code with <a href="https://github.com/github">**Github**</a>. So far learning to code has been very challenging and frustrating but I like the challenges and thinking outside the square to persevere and find solutions so without further a do lets start. 
 
 <h2><strong>Git Time</strong></h2>
 
-*I went to instal* ***Git Bash*** *but I already installed from before but I didn't understand how to use it, well know I am learning how to use it.*
+The list below are all the subjects that Github Quickstart learning path to <a href="https://docs.github.com/en/get-started">**Get started**</a> entails:
 
->Lets stick with **the basics** first before we get too far ahead of ourselves so lets creating a branch.
->
->*Well branch every major topic with a name* feature [name & number] *so we can keep track of our progress.*
->
 <ul>
-  <li>feature Hello World 1</li>
-  <li>feature Set Up Git 2</li>
-  <li>feature etc</li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/hello-world">Hello World</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/set-up-git">Set up Git</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/create-a-repo">Create a repo</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">Fork a repo</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/github-flow">Github flow</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/contributing-to-projects">Contributing to projects</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/be-social">Be social</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/communicating-on-github">Communicating on GitHub</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/github-glossary">GitHub glossary</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/git-cheatsheet">Git Cheatsheet</a></li>
+  <li><a href="https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources">Learning resources</a></li>
 </ul>
 
 **So lets get started and branch up our progress.**
 
-<h3>Yes we have branched to <strong>feature Hello World 1</strong></h3> 
-
->That was quick so now well do a pull requeast!!! This should be easy :):):).
->
-
-<h3>Setting up <strong>Git Bash</strong> again as I had previously already done it lol, so Round 2</h3>
-
->Not interested in adding <strong>Git GUI</strong> as I will be more than happy just to use CodeSandbox. I have also previously completed <strong>Authentication with Git</strong> as I have created an Auth Token in Settings. I have also set up a <strong>Git Clone</strong> so I am on a roll with this section :P.
-
-
-
-<h3>Create A Repo</h3>
-
-><strong>Done and Dusted</strong> already and we can move onto the next section :):):).
-
-<h3>Fork A Repo</h3>
-
-><strong>Done and Dusted</strong> already and we can move onto the next section :):):).
-
-<h3>Github Flow</h3>
-
->My own workflow will be a <strong>Work In Progress</strong> because I am slowly building my many projects so I have forked githubs recommendations for now which includes:
->
-
-<ul>
-  <li><a href="https://github.com/369gtech/site-policy">github site policy</a></li>
-  <li><a href="https://https://github.com/369gtech/docs">github documentation</a></li>
-  <li><a href="https://github.com/369gtech/roadmap">github roadmap</a></li>
-</ul>
-
->These github templates will help me develope my own workflow and Thank You Github :):):).
+I completed all the Github Quickstart learning path to <a href="https://docs.github.com/en/get-started">**Get started**</a>, part time over a couple of days. It was relatively easy but I will say this, it will take a little while for me to implement all these into my monoGame projects. If you need a hand with completing any of these task then please feel free to contact me on my <a href="https://discord.gg/aTYpM7qX">**Discord**</a> where we can discuss the solution to your problem. On a final note Thank You <a href="https://github.com/github">**Github**</a> :):):) for a great tutorial learning path.
